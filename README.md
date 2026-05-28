@@ -1,71 +1,74 @@
-# Blockiy 🚀
+# Blockiy
 
-Blockiy is a blockchain startup focused on building reliable and scalable infrastructure on the Cardano network.
+Building infrastructure, education, and ecosystem tools for Cardano.
 
-Our mission is to support decentralization while providing secure, transparent, and high-performance staking services.
+Blockiy is focused on supporting decentralization through staking infrastructure, blockchain education, ecosystem growth, and long-term community participation across the Cardano network.
 
 ---
 
-## 🟡 BLOKY Stake Pool
+## Cardano Ecosystem
+
+Blockiy contributes to the Cardano ecosystem through:
+
+* Staking infrastructure
+* Blockchain education
+* Ecosystem insights and updates
+* Support for smaller independent stake pools
+* Community-driven decentralization
+
+---
+
+## BLOKY Stake Pool
 
 BLOKY is an independent Cardano stake pool operated by Blockiy.
 
-Designed for stability, performance, and long-term growth.
+Designed for reliability, transparency, and sustainable long-term participation within the Cardano ecosystem.
 
 ### Pool Details
 
-- **Ticker:** BLOKY  
-- **Pool ID:** e1ea402bec9f495096d7ab0de98139d65224e6f9a6d96746e9af4e5e  
-- **Status:** Active  
-- **Uptime:** 24/7  
-- **Infrastructure:** Secure & monitored servers  
+* **Ticker:** BLOKY
+* **Status:** Active
+* **Uptime:** 24/7
+* **Infrastructure:** Secure & monitored servers
 
 ---
 
-## 🎁 Early Delegator Program
+## Why Decentralization Matters
 
-We share our fixed fee with early delegators.
+Cardano relies heavily on distributed stake pool participation to maintain network security and decentralization.
 
-Extra ADA rewards are automatically distributed every 6 days to the delegating address.
-
----
-
-## 🌐 Website
-
-https://blockiy.com
+Supporting smaller independent pools helps strengthen the resilience and long-term sustainability of the ecosystem.
 
 ---
 
-## 📱 Social Media
+## Explore the Pool
 
-- Instagram: https://www.instagram.com/blockiy_official/  
-- Telegram: https://t.me/blockiy_official  
-- YouTube: https://www.youtube.com/@Blockiy  
-- Twitter (X): https://x.com/blockiy_team  
-- Facebook: https://www.facebook.com/Blockiy/  
-- GitHub: https://github.com/blockiy  
+* Cardanoscan:
+  https://cardanoscan.io/pool/e1ea402bec9f495096d7ab0de98139d65224e6f9a6d96746e9af4e5e
 
----
-
-## 🤝 Support Decentralization
-
-Delegating to smaller independent pools like BLOKY helps improve the decentralization and security of the Cardano network.
+* Website:
+  https://www.blockiy.com
 
 ---
 
-## 📊 Explore Pool
+## Socials
 
-https://cardanoscan.io/pool/e1ea402bec9f495096d7ab0de98139d65224e6f9a6d96746e9af4e5e
-
----
-
-## 💡 How to Delegate
-
-1. Open your Cardano wallet (Daedalus, Yoroi, etc.)  
-2. Go to the staking / delegation section  
-3. Search for ticker: **BLOKY**  
-4. Delegate and start earning rewards  
+* X (Twitter): https://x.com/blockiy_team
+* Telegram: https://t.me/blockiy_official
+* Instagram: https://www.instagram.com/blockiy_official/
+* YouTube: https://www.youtube.com/@Blockiy
+* Facebook: https://www.facebook.com/Blockiy/
+* GitHub: https://github.com/blockiy
 
 ---
 
-**Built with passion by Blockiy**
+## How to Delegate
+
+1. Open your Cardano wallet
+2. Go to the staking/delegation section
+3. Search for ticker: **BLOKY**
+4. Delegate and participate in Cardano staking
+
+---
+
+Building for the Cardano ecosystem.
